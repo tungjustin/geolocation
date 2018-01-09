@@ -1,0 +1,496 @@
+[
+    [
+        "/Users/justin_tung/geolocation/force-app",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1515450777186,
+            "changeTime": 1515450777186,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1515450777186,
+            "changeTime": 1515450777186,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1515462182281,
+            "changeTime": 1515462182281,
+            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1515462671288,
+            "changeTime": 1515462671288,
+            "isWorkspace": false,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1515463023049,
+            "changeTime": 1515463023049,
+            "isWorkspace": false,
+            "contentHash": "8ff1c7e0770370b5b9cbc5aa29cacb6c766d5220"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 161,
+            "modifiedTime": 1515463158007,
+            "changeTime": 1515463158007,
+            "isWorkspace": false,
+            "contentHash": "2ec174ce00137ae2c245adfeb72d1cfa9c140935"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1515462182303,
+            "changeTime": 1515462182303,
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1515462987632,
+            "changeTime": 1515462987632,
+            "contentHash": "b311bc40f6587511f8a86042774f1a1cfff776b9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9756,
+            "modifiedTime": 1515451168064,
+            "changeTime": 1515451168064,
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9708,
+            "modifiedTime": 1515451168057,
+            "changeTime": 1515451168057,
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9756,
+            "modifiedTime": 1515451168061,
+            "changeTime": 1515451168061,
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9708,
+            "modifiedTime": 1515451168051,
+            "changeTime": 1515451168051,
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1515451168043,
+            "changeTime": 1515451168043,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1515451168043,
+            "changeTime": 1515451168043,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1515451168044,
+            "changeTime": 1515451168044,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1515451168044,
+            "changeTime": 1515451168044,
+            "contentHash": "4b5fb2d2da7caace118e6e3e729509d85072ba1b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1515451168087,
+            "changeTime": 1515451168087,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17055,
+            "modifiedTime": 1515451168074,
+            "changeTime": 1515451168074,
+            "contentHash": "de0f267ee8bf31a93f84c4a779bffad0658bcade",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4373,
+            "modifiedTime": 1515451168084,
+            "changeTime": 1515451168084,
+            "contentHash": "ac146ad4828da47bb2a3e45e664ddaef1e1aaf9d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4369,
+            "modifiedTime": 1515451168081,
+            "changeTime": 1515451168081,
+            "contentHash": "3ddd9cef9ff7e4457b775b5a3b120e1e051abe80",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4709,
+            "modifiedTime": 1515451168087,
+            "changeTime": 1515451168087,
+            "contentHash": "e438db80e4aeeecbf992be6e83d759c571b35faf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation",
+            "isDirectory": true,
+            "size": 416,
+            "modifiedTime": 1515461823536,
+            "changeTime": 1515461823536,
+            "contentHash": "f6438cbb5c06f5b9abefc0a6b4c47b96e6a27a00",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/layouts/Lead-Lead Layout Test.layout-meta.xml",
+        {
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/layouts/Lead-Lead Layout Test.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2253,
+            "modifiedTime": 1515462987632,
+            "changeTime": 1515462987632,
+            "contentHash": "3362182493aa77b71b3a7bb7d0680847b062d85a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1515462671292,
+            "changeTime": 1515462671292,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1515462671291,
+            "changeTime": 1515462671291,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1515462671288,
+            "changeTime": 1515462671288,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1515462671289,
+            "changeTime": 1515462671289,
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1515462671290,
+            "changeTime": 1515462671290,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1515462671292,
+            "changeTime": 1515462671292,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1515462671291,
+            "changeTime": 1515462671291,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1515462671289,
+            "changeTime": 1515462671289,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1515462671290,
+            "changeTime": 1515462671290,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1515462671290,
+            "changeTime": 1515462671290,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/classes/AccountController2.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/classes/AccountController2.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 90,
+            "modifiedTime": 1515463023049,
+            "changeTime": 1515463023049,
+            "contentHash": "d0d293ce75c05d6905d62788a452507d2d5cbf05"
+        }
+    ],
+    [
+        "/Users/justin_tung/geolocation/force-app/main/default/classes/AccountController2.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/justin_tung/geolocation/force-app/main/default/classes/AccountController2.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1515463023049,
+            "changeTime": 1515463023049,
+            "contentHash": "b666f38b28c32c2e7e6979b316f4d14b5cd266ff"
+        }
+    ]
+]
